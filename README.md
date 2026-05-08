@@ -2,7 +2,7 @@
 
 ## 🚀 Project Overview
 
-This project delivers a complete **end-to-end data analytics solution** for a retail business using **SQL and Power BI**.  
+This project delivers a complete **end-to-end data analytics solution** for a E-Commerce Sales  using **SQL and Power BI**.  
 The objective is to transform raw transactional data into **actionable business insights** through data modeling, KPI design, and interactive dashboards.
 
 The project follows a real-world workflow used by data analysts:
