@@ -1,4 +1,4 @@
-# 📊 Retail Sales Analytics Dashboard (SQL + Power BI)
+# 📊 E-Commerce Sales Analytics Dashboard (SQL + Power BI)
 
 ## 🚀 Project Overview
 
